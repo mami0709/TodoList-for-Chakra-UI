@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { Box,Text,Table,Thead,Tbody,Tr,TableContainer,Td, Button } from "@chakra-ui/react"
+import { Table,Thead,Tbody,Tr,TableContainer,Td, Button } from "@chakra-ui/react"
 
 
 const TodoList =() => {

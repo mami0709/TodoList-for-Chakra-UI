@@ -7,8 +7,6 @@ import TodoList from './commponent/todoList'
 
 
 export const App =() => {
-    const [ todoText,setTodoText] = useState("");
-    const [ todoList, setNewTodoList ] = React.useState([]);
 
     return(
       <>
